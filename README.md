@@ -1,6 +1,6 @@
 # SkillConnect - Peer-to-Peer Student Skill Sharing Platform
 
-A 3rd-year college full-stack web application designed for university students to barter practical skills directly with their peers. Students can list what they can teach, what they want to learn, discover peer mentors, find reciprocal skill matches, and coordinate exchange proposals through a dashboard.
+A  full-stack web application designed for university students to barter practical skills directly with their peers. Students can list what they can teach, what they want to learn, discover peer mentors, find reciprocal skill matches, and coordinate exchange proposals through a dashboard.
 
 ---
 
